@@ -36,7 +36,6 @@ pip install kivy
 
 ```bash 
 pip install torchvision==0.1.6
-
 pip install torch==0.3.1
 ```
 
