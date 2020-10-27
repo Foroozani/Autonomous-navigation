@@ -123,7 +123,7 @@ In that case, one start a new if & else condition, saying that if the car has mo
             if distance < last_distance: # however if it getting close to the goal
                 last_reward = 0.1 # it still gets slightly positive reward 0.1
 ```
-![image](https://github.com/Foroozani/Self_driving_car/blob/main/images/image1.png)
+![](https://github.com/Foroozani/Self_driving_car/blob/main/images/image2.png)
 
 
 
