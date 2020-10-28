@@ -1,4 +1,4 @@
-# Self_driving_car
+# Autonomous navigation
 ## AI for Autonomous Vehicles - Build a Self-Driving Car
 
 An example to build a 2D map inside a `Kivy` webapp. `Kivy` is a free and open source `Python` framework, used for the development of applications like games, or any kind of mobile app [website](https://kivy.org/#home). The whole environment for this project is built with `Kivy` and `PyTorch`, from start to finish.
